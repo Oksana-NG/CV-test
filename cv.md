@@ -9,9 +9,9 @@ Location ***Kharkiv, Ukraine***
 
 ## Summary
 
-This year I started working as a junior QA Engineer. I enjoy working in the IT industry, where I can participate in creating useful and unique products, helping to make them better and well-worked.
-I enjoy learning and developing my skills. This year I finished my basic HTML and CSS course and started learning Javascript at Codecademy. I am working and at the same time studying Web Development, which helps me to better fulfil my current responsibilities. 
-I am responsible and ambitious, I like working in a team, but it is also not difficult for me to work alone. It is a good time to do my best.
+This year I started working as a junior QA Engineer. I enjoy working in the IT industry, where I can participate in creating useful and unique products, helping to make them better and well-worked.   
+I enjoy learning and developing my skills. This year I finished my basic HTML and CSS course and started learning Javascript at Codecademy. I am working and at the same time studying Web Development, which helps me to better fulfil my current responsibilities.    
+I am responsible and ambitious, I like working in a team, but it is also not difficult for me to work alone. It is a good time to do my best.  
 
 ## Skills
 
@@ -45,8 +45,6 @@ I am responsible and ambitious, I like working in a team, but it is also not dif
 
 ## Languages
 
-#### English level is B1
-    *Intermediate*
+#### English level is B1 *Intermediate*
 
-#### French level is B2
-    *Upper-Intermediate
+#### French level is B2 *Upper-Intermediate*
