@@ -3,9 +3,9 @@
 Location ***Kharkiv, Ukraine***  
 +380 97 658-18-38 
 
--Email: [oksanagagauz.fr@gmail.com](mailto:oksanagagauz.fr@gmail.com)
--LinkedIn: [linkedin.com/in/oksana-hahauz](https://www.linkedin.com/in/oksana-hahauz-4887b0194/)
--GitHub: [github.com/Oksana-NG](https://github.com/Oksana-NG)
+- Email: [oksanagagauz.fr@gmail.com](mailto:oksanagagauz.fr@gmail.com)   
+- LinkedIn: [linkedin.com/in/oksana-hahauz](https://www.linkedin.com/in/oksana-hahauz-4887b0194/)   
+- GitHub: [github.com/Oksana-NG](https://github.com/Oksana-NG)   
 
 ## Summary
 
@@ -15,18 +15,18 @@ I am responsible and ambitious, I like working in a team, but it is also not dif
 
 ## Skills
 
-◾◾◾◽◽ HTML/CSS
-◾◾◾◽◽ Unix  
-◾◾◾◽◽ SQL basics  
-◾◾◾◽◽ GIT
-◾◾◾◾◽ Visual Studio Code
-◾◾◾◾◽ Jira, Confluence, Mantis
-◾◾◾◽◽ REST/SOAP web services
-◾◾◾◾◽ Scrum, Kanban
-◾◾◽◽◽ IntelliJ IDEA
-◾◾◾◽◽ Postman, Selenium, SOAP UI, J-meter
-◾◾◾◾◽ Creating/reviewing test documentation:
-◾◾◾◾◽ Test design
+◾◾◾◽◽ HTML/CSS   
+◾◾◾◽◽ Unix    
+◾◾◾◽◽ SQL basics   
+◾◾◾◽◽ GIT   
+◾◾◾◾◽ Visual Studio Code   
+◾◾◾◾◽ Jira, Confluence, Mantis   
+◾◾◾◽◽ REST/SOAP web services   
+◾◾◾◾◽ Scrum, Kanban   
+◾◾◽◽◽ IntelliJ IDEA   
+◾◾◾◽◽ Postman, Selenium, SOAP UI, J-meter   
+◾◾◾◾◽ Creating/reviewing test documentation   
+◾◾◾◾◽ Test design   
 
 ## Experience
 
@@ -42,3 +42,11 @@ I am responsible and ambitious, I like working in a team, but it is also not dif
 
 - [Hillel IT School: QA manual](https://certificate.ithillel.ua/view/40114462/en)
 - [Codecademy: HTML & CSS basics](https://www.codecademy.com/profiles/cloud6318931302)
+
+## Languages
+
+#### English level is B1
+    *Intermediate*
+
+#### French level is B2
+    *Upper-Intermediate
